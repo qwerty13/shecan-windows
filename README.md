@@ -2,5 +2,5 @@
 # shecan-windows
 نسخه تحت ویندوز سرویس شکن
 
-![](sshot.png =800x)
+<img src="sshot.png" alt="sshot" width="800"/>
 </div>
