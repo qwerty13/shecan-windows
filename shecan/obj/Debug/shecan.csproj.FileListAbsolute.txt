@@ -1,0 +1,14 @@
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\bin\Debug\shecan.exe.config
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\bin\Debug\shecan.exe
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\bin\Debug\shecan.pdb
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.csprojResolveAssemblyReference.cache
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\MainWindow.g.cs
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\App.g.cs
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan_MarkupCompile.cache
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan_MarkupCompile.lref
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\MainWindow.baml
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.g.resources
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.Properties.Resources.resources
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.csproj.GenerateResource.Cache
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.exe
+c:\users\qwerty13-pc\documents\visual studio 2017\Projects\shecan\shecan\obj\Debug\shecan.pdb
