@@ -2,5 +2,5 @@
 # shecan-windows
 نسخه تحت ویندوز سرویس شکن
 
-![](sshot.png)
+![](sshot.png =800x)
 </div>
