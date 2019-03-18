@@ -1,4 +1,4 @@
 # shecan-windows
 نسخه تحت ویندوز سرویس شکن
 
-<img src="sshot.png" alt="sshot" width="500"/>
+<img src="sshot_2.png" alt="sshot" width="500"/>
