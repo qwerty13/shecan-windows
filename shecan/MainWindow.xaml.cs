@@ -31,25 +31,9 @@ namespace shecan
         public MainWindow()
         {
             InitializeComponent();
-
             th = new Thread(() => {
-                while (true)
-                {
-                    for (int i = 0; i < 360; i++)
-                    {
-                        if (i > 180)
-                        {
-                            img_status.Source = new BitmapImage(new Uri(@"/pics/taeed.png", UriKind.Relative));
-                        }
-                        this.Dispatcher.Invoke(new Action(delegate ()
-                        {
-                            img_status.RenderTransform = new RotateTransform(i,50,50);
-                        }));
-                        Thread.Sleep(1);
-                    }
-                }
+                
             });
-            //th.Start();
         }
 
         private void btn_connect_Click(object sender, RoutedEventArgs e)
@@ -199,6 +183,16 @@ namespace shecan
                     }
                 }
             }
+        }
+
+        private void btn_minimize_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void btn_abr_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://abrlab.ir");
         }
     }
 }

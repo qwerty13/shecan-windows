@@ -138,9 +138,6 @@
     <Resource Include="pics\zarbdar.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="pics\loading.gif" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1</ProductName>
@@ -149,6 +146,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="pics\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pics\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pics\abr_logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
